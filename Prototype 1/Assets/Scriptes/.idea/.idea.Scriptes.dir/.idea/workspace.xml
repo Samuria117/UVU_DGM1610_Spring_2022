@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c16bb6a3-008c-477d-9c85-e9dd48a6399c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Prototype 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
@@ -44,6 +43,9 @@
       <workItem from="1647056634380" duration="34000" />
       <workItem from="1647056725988" duration="72000" />
       <workItem from="1647057190569" duration="5000" />
+      <workItem from="1647061525281" duration="173000" />
+      <workItem from="1647061723849" duration="9000" />
+      <workItem from="1647061754999" duration="31000" />
     </task>
     <servers />
   </component>
