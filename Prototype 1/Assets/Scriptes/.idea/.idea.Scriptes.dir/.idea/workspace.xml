@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c16bb6a3-008c-477d-9c85-e9dd48a6399c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Prototype 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewBehaviourScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewBehaviourScript.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +48,13 @@
       <workItem from="1647061525281" duration="173000" />
       <workItem from="1647061723849" duration="9000" />
       <workItem from="1647061754999" duration="31000" />
+      <workItem from="1647136385852" duration="241000" />
+      <workItem from="1647136686160" duration="16000" />
+      <workItem from="1647136757544" duration="112000" />
+      <workItem from="1647136980585" duration="102000" />
+      <workItem from="1647137125127" duration="101000" />
+      <workItem from="1647137318476" duration="8000" />
+      <workItem from="1647137427609" duration="58000" />
     </task>
     <servers />
   </component>
