@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c16bb6a3-008c-477d-9c85-e9dd48a6399c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Fix Flying plane/Assets/Challenge 1/Scripts/PlayerControllerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fix Flying plane/Assets/Challenge 1/Scripts/PlayerControllerX.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fix Flying plane/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fix Flying plane/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FollowPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FollowPlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FollowPlayer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/FollowPlayer.cs.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +83,9 @@
       <workItem from="1647283556939" duration="10000" />
       <workItem from="1647283922797" duration="143000" />
       <workItem from="1647284196937" duration="8000" />
+      <workItem from="1647315176984" duration="22000" />
+      <workItem from="1647315231939" duration="77000" />
+      <workItem from="1647315340273" duration="6000" />
     </task>
     <servers />
   </component>
