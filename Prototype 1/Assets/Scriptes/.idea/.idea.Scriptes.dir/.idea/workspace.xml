@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c16bb6a3-008c-477d-9c85-e9dd48a6399c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../FollowPlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FollowPlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Prototype 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FollowPlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FollowPlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FollowPalyer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -86,6 +93,16 @@
       <workItem from="1647317092717" duration="238000" />
       <workItem from="1647320331364" duration="2000" />
       <workItem from="1647320350570" duration="2000" />
+      <workItem from="1647357271084" duration="212000" />
+      <workItem from="1647357526674" duration="41000" />
+      <workItem from="1647357928629" duration="7000" />
+      <workItem from="1647358298354" duration="156000" />
+      <workItem from="1647358541860" duration="166000" />
+      <workItem from="1647358755084" duration="75000" />
+      <workItem from="1647358922040" duration="82000" />
+      <workItem from="1647359041989" duration="9000" />
+      <workItem from="1647359073303" duration="53000" />
+      <workItem from="1647359221244" duration="256000" />
     </task>
     <servers />
   </component>

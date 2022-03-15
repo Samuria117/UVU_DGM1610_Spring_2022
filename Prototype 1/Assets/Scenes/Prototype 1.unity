@@ -1066,8 +1066,8 @@ GameObject:
   m_Component:
   - component: {fileID: 534669905}
   - component: {fileID: 534669904}
-  - component: {fileID: 534669903}
   - component: {fileID: 534669906}
+  - component: {fileID: 534669903}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1150,7 +1150,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 534669902}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 50641ecedf931f8419691a4b3a5fbcf1, type: 3}
+  m_Script: {fileID: 11500000, guid: b253e2173325cd3459cd38f33c7ab261, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &570699461 stripped
@@ -3158,6 +3158,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c884a97faa7d5c42bb7085c549840e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 15
+  turnSpeed: 20
+  horizontalInput: 0
+  forwardInput: 0
 --- !u!1 &1447397269 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 134104, guid: 71782582b9d2cac4cba5251a3b767d13, type: 3}
