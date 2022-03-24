@@ -427,6 +427,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400751257, guid: 814f4326a50812947b2469896d89a215, type: 3}
+      propertyPath: m_Constraints
+      value: 122
+      objectReference: {fileID: 0}
+    - target: {fileID: 400751257, guid: 814f4326a50812947b2469896d89a215, type: 3}
       propertyPath: m_IsKinematic
       value: 0
       objectReference: {fileID: 0}
