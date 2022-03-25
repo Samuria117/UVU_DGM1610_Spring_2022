@@ -427,6 +427,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400751257, guid: 814f4326a50812947b2469896d89a215, type: 3}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400751257, guid: 814f4326a50812947b2469896d89a215, type: 3}
       propertyPath: m_UseGravity
       value: 1
       objectReference: {fileID: 0}
@@ -767,8 +771,13 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Obstacle
       objectReference: {fileID: 0}
+    - target: {fileID: 6464064518742664116, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
+      propertyPath: m_Mass
+      value: 15
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 450142124526179336, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
+    - {fileID: 5285954350139170981, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
 --- !u!4 &7908069159536768943 stripped
 Transform:
