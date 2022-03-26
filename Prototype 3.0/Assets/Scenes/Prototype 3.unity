@@ -574,6 +574,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstaclePrefab: {fileID: 7908069159537066895}
+  playerControllerScript: {fileID: 0}
 --- !u!4 &1158646268
 Transform:
   m_ObjectHideFlags: 0
@@ -695,13 +696,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1158646268}
     m_Modifications:
+    - target: {fileID: 450142124526179336, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
+      propertyPath: obstaclePrefab
+      value: 
+      objectReference: {fileID: 7908069159537066895}
     - target: {fileID: 6042803050709101687, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6042803050709101687, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.3224525
+      value: 29.8
       objectReference: {fileID: 0}
     - target: {fileID: 6042803050709101687, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
       propertyPath: m_LocalPosition.y
@@ -752,7 +757,6 @@ PrefabInstance:
       value: 15
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 450142124526179336, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
     - {fileID: 5285954350139170981, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
 --- !u!4 &7908069159536768943 stripped
