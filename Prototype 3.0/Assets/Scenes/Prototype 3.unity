@@ -418,6 +418,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 400751256, guid: 814f4326a50812947b2469896d89a215, type: 3}
+      propertyPath: gameOver
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400751256, guid: 814f4326a50812947b2469896d89a215, type: 3}
+      propertyPath: jumpForce
+      value: 850
+      objectReference: {fileID: 0}
+    - target: {fileID: 400751256, guid: 814f4326a50812947b2469896d89a215, type: 3}
+      propertyPath: gravityModifier
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400751257, guid: 814f4326a50812947b2469896d89a215, type: 3}
+      propertyPath: m_Mass
+      value: 60
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 814f4326a50812947b2469896d89a215, type: 3}
 --- !u!1 &835818919
@@ -556,7 +572,7 @@ GameObject:
   - component: {fileID: 1158646267}
   m_Layer: 0
   m_Name: Respawn Manager
-  m_TagString: Untagged
+  m_TagString: Respawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -696,10 +712,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1158646268}
     m_Modifications:
-    - target: {fileID: 450142124526179336, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
-      propertyPath: obstaclePrefab
-      value: 
-      objectReference: {fileID: 7908069159537066895}
     - target: {fileID: 6042803050709101687, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -748,16 +760,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle
       objectReference: {fileID: 0}
-    - target: {fileID: 6042803050709342295, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
-      propertyPath: m_TagString
-      value: Obstacle
-      objectReference: {fileID: 0}
-    - target: {fileID: 6464064518742664116, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
-      propertyPath: m_Mass
-      value: 15
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 5285954350139170981, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0af0976ee9321b944a0edaf644a72e48, type: 3}
 --- !u!4 &7908069159536768943 stripped
 Transform:
