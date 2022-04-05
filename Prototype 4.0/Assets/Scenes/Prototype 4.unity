@@ -138,6 +138,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2010543769895121089, guid: 3fd5555088952419ebf0eb82e9096fa5, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7382815964509602841, guid: 3fd5555088952419ebf0eb82e9096fa5, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -411,6 +415,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 3874063770869355901, guid: ffd95c4ff4c36d642ae1f3c8d424dfdc, type: 3}
+  powerupPrefab: {fileID: 0}
+  enemyCount: 3
+  waveNumber: 1
 --- !u!4 &964327401
 Transform:
   m_ObjectHideFlags: 0
