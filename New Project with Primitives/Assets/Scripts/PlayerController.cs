@@ -41,7 +41,21 @@ public class PlayerController : MonoBehaviour
         
         if (transform.position.z > zBound)
         {
-            
+            transform.position = new Vector3(transform.position.x, transform.position.y, zBound);
+        }
+    }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("Palyerhas collided with enemy.");
+        }
+    }
+    private void OnTriggerEneter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Powerup"))
+        {
+            Destroy(other.gameObject)
         }
     }
 
