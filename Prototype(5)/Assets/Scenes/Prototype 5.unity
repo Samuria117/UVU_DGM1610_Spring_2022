@@ -178,6 +178,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bad 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8703979378049435419, guid: b4bd2df80f111024485ea14e15f40d3e, type: 3}
+      propertyPath: pointValue
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8703979378049435419, guid: b4bd2df80f111024485ea14e15f40d3e, type: 3}
+      propertyPath: explosionParticle
+      value: 
+      objectReference: {fileID: 7303472089845130122, guid: 6cbc21f5e9162483993a2b84b14d5ac8, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b4bd2df80f111024485ea14e15f40d3e, type: 3}
 --- !u!1 &117215329 stripped
@@ -440,6 +448,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Good 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1930374867908556587, guid: 3d7b85965182af74597b11be399ff993, type: 3}
+      propertyPath: pointValue
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1930374867908556587, guid: 3d7b85965182af74597b11be399ff993, type: 3}
+      propertyPath: explosionParticle
+      value: 
+      objectReference: {fileID: 5112437202714306363, guid: 7b4191607aae74c0ab244a8d6e48adbf, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d7b85965182af74597b11be399ff993, type: 3}
 --- !u!1 &449770586
@@ -509,8 +525,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190335
-  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -837,6 +853,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1832560232866517525, guid: cbc9f4444d34fb544a22ea6dca31f52d, type: 3}
+      propertyPath: pointValue
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1832560232866517525, guid: cbc9f4444d34fb544a22ea6dca31f52d, type: 3}
+      propertyPath: explosionParticle
+      value: 
+      objectReference: {fileID: 3199346384015752365, guid: 307229a5540374aae98859caad2128a3, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cbc9f4444d34fb544a22ea6dca31f52d, type: 3}
 --- !u!1 &1545969359
@@ -1010,6 +1034,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4784282446097587141, guid: 7e9d6305d845fd8409be8894ed1eaae6, type: 3}
+      propertyPath: pointValue
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4784282446097587141, guid: 7e9d6305d845fd8409be8894ed1eaae6, type: 3}
+      propertyPath: explosionParticle
+      value: 
+      objectReference: {fileID: 2478549635105912040, guid: ec46c8c4a3cbc429382ee48bd9169b45, type: 3}
     - target: {fileID: 5579459343462996377, guid: 7e9d6305d845fd8409be8894ed1eaae6, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -1094,6 +1126,7 @@ MonoBehaviour:
   - {fileID: 1780613988}
   - {fileID: 763309376}
   - {fileID: 142290489}
+  scoreText: {fileID: 449770588}
 --- !u!4 &1720796271
 Transform:
   m_ObjectHideFlags: 0
