@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c16bb6a3-008c-477d-9c85-e9dd48a6399c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../New Project with Primitives/Assets/Scenes/MyGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../../New Project with Primitives/Assets/Scenes/MyGame.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../New Project with Primitives/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../New Project with Primitives/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scriptes.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerController.cs" afterDir="false" />
-    </list>
+    <list default="true" id="c16bb6a3-008c-477d-9c85-e9dd48a6399c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +102,7 @@
       <workItem from="1647386998336" duration="76000" />
       <workItem from="1647387103284" duration="26000" />
       <workItem from="1650157750825" duration="171000" />
+      <workItem from="1650158496846" duration="12000" />
     </task>
     <servers />
   </component>
